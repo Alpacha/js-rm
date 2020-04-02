@@ -1,0 +1,47 @@
+body {
+    background-color: lightslategray;
+}
+
+h1 {
+    color: purple;
+    text-align: right;
+    margin-right: 600px;
+    margin-top: -60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: lightgreen;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 1px solid lime;
+}
+.ul {
+    margin-top: 30px;
+}
+li {
+    margin-bottom: 7px;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 38%;
+}
+.btn {
+    width: auto;
+    height: auto;
+}
+.galconlogo {
+    width: auto;
+}
+.galconlogo {
+    display: block;
+    margin: 0 auto; 
+}
+.header {
+	background: #060d28;
+	padding: 18px;
+	padding-bottom: 20px;
+}
